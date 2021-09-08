@@ -7,15 +7,15 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://docs.google.com/spreadsheets/d/1W9gcAWhGh387zm-T7X1JdfhqJPQQKDJU4y_6g7kcYfw/edit?usp=sharing 
+* [неправильный подсчет данных](https://github.com/QA-NICK/QA-java-home-work-one/issues/1) 
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Баг-репорт
+* [тест кейс](https://docs.google.com/spreadsheets/d/1Ffty0P6WPlswRb_chsXI2VBWtG4_Zcfq6MGqIo_z4PU/edit?usp=sharing)
 
-В качестве тестовых данных использовались данные, предоставленные по ссылке https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
+В качестве тестовых данных использовались данные, предоставленные из [домашнего задания](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * currentBalance = 2_000_000_000
 * transferSum = 500_000_000
 * totalBalance = currentBalance + transferSum;
